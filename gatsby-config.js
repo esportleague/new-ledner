@@ -75,8 +75,8 @@ Now, the broadly defined esports industry expert.
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `flexible-esport-tips`,
-        short_name: `esport`,
+      name: `flexible-gatsby-starter`,
+        short_name: `flexible-gatsby`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
