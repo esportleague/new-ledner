@@ -1,15 +1,21 @@
 module.exports = {
-  siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+ siteMetadata: {
+   
+        title: `A better esport world`,
+    description: `
+I was a professional castor. Almost the best player in Hearthstone. Sports analyst, mostly football and hockey.
+Now, the broadly defined esports industry expert.
+`,
+    author: `Sami Laasanen`,
+    siteUrl: `https://ledner.info`,
+    
+    
     social: {
-      twitter: `wang0nya`,
-      facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      twitter: false,
+      facebook: false,
+      github: false,
+      linkedin: false,
+      email: `esportleague@protonmail.com`,
     },
   },
   plugins: [
@@ -69,8 +75,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `flexible-gatsby-starter`,
-        short_name: `flexible-gatsby`,
+        name: `flexible-esport-tips`,
+        short_name: `esport`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
