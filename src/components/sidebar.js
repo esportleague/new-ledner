@@ -19,6 +19,9 @@ const Sidebar = ({ siteMetadata }) => (
       </header>
       <footer>
         <section className="contact">
+  Esport talks partner:
+   <a href="https://esporttalk.org">Esports Betting Tips</a> 
+  CSGO, LOL - esports bets
           <h3 className="contact-title">Contact me</h3>
           <ul>
             {siteMetadata.social.twitter && (
