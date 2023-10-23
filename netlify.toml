@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://stellar-cobbler-6a7344.netlify.app"
+  to = "https://ledner.info"
+  status = 301
+  force = true
